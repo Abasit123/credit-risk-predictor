@@ -88,34 +88,12 @@ venv\Scripts\activate         # Windows
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-## Usage
-
-*(Fill this in once the pipeline exists — example below to follow once ready)*
-
-```bash
-# Run the training pipeline
-python src/models/train.py
-
-# Launch the API locally
-uvicorn src.api.main:app --reload
-
-# Launch the Streamlit demo
-streamlit run src/api/app.py
 ```
 
-## Results
-
-*(To be filled in after Phase 4 — include your final model's ROC-AUC, PR-AUC, and a business-framed metric like "at a 90% approval rate, default rate drops by X%")*
-
-## Key Learnings
-
-*(To be filled in as you go — this section is gold for interviews. Note down real obstacles: e.g., how you handled imbalance, what threshold tuning taught you, surprises in SHAP results)*
 
 ## Author
 
-**Abdul Basit** — Software Engineering student, MUET (Batch 22SW)
-[LinkedIn](#) · [GitHub](#)
+**Abdul Basit** [LinkedIn](#) · [GitHub](#)
 
 ## License
 
